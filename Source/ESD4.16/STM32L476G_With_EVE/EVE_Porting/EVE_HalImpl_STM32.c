@@ -33,7 +33,7 @@
 #include "EVE_HalImpl.h"
 #include "EVE_Platform.h"
 #include "main.h"
-#include "usb_host.h"
+//#include "usb_host.h"
 
 // ==============================================================
 // ==============================================================
